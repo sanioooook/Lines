@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: aab311d09411b774f94648fd06702a8a
+timeCreated: 1548506821
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cellSprite: {fileID: 1035570214408258, guid: e76253b65264f8147baa472f40981863,
+      type: 2}
+  - ballSprite: {fileID: 1488505545929266, guid: f5651e036260cf849b437f76ba55ebcd,
+      type: 2}
+  - scoreText: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - a: {fileID: 7400000, guid: d85fdc8f0746288499b8d9b4b907fa78, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
